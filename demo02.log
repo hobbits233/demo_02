@@ -1,0 +1,68 @@
+2023-06-08 17:22:00.388  INFO 27100 --- [main] com.example.demo_02.Demo02Application    : Starting Demo02Application using Java 1.8.0_311 on Hobbit with PID 27100 (D:\Java_SpringBoot2\springboot3\demo_02\target\classes started by 王东林的计算机 in D:\Java_SpringBoot2\springboot3\demo_02)
+2023-06-08 17:22:00.391  INFO 27100 --- [main] com.example.demo_02.Demo02Application    : No active profile set, falling back to default profiles: default
+2023-06-08 17:22:01.300  INFO 27100 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-06-08 17:22:01.308  INFO 27100 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-06-08 17:22:01.308  INFO 27100 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-08 17:22:01.409  INFO 27100 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-06-08 17:22:01.409  INFO 27100 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 965 ms
+2023-06-08 17:22:01.748  INFO 27100 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-08 17:22:01.756  INFO 27100 --- [main] com.example.demo_02.Demo02Application    : Started Demo02Application in 1.902 seconds (JVM running for 3.289)
+2023-06-08 17:22:20.042  INFO 27100 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-08 17:22:20.042  INFO 27100 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-06-08 17:22:20.043  INFO 27100 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-06-08 17:22:20.064  INFO 27100 --- [http-nio-8080-exec-1] c.e.demo_02.controller.HelloController   : 哈哈哈！
+2023-06-08 18:35:23.066  INFO 14796 --- [main] com.example.demo_02.Demo02Application    : Starting Demo02Application using Java 1.8.0_311 on Hobbit with PID 14796 (D:\Java_SpringBoot2\springboot3\demo_02\target\classes started by 王东林的计算机 in D:\Java_SpringBoot2\springboot3\demo_02)
+2023-06-08 18:35:23.068  INFO 14796 --- [main] com.example.demo_02.Demo02Application    : No active profile set, falling back to default profiles: default
+2023-06-08 18:35:23.877  INFO 14796 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-06-08 18:35:23.887  INFO 14796 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-06-08 18:35:23.888  INFO 14796 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-08 18:35:23.998  INFO 14796 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-06-08 18:35:23.999  INFO 14796 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 892 ms
+2023-06-08 18:35:24.341  INFO 14796 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-08 18:35:24.351  INFO 14796 --- [main] com.example.demo_02.Demo02Application    : Started Demo02Application in 1.797 seconds (JVM running for 2.915)
+2023-06-08 18:37:09.558  INFO 23644 --- [main] com.example.demo_02.Demo02Application    : Starting Demo02Application using Java 1.8.0_311 on Hobbit with PID 23644 (D:\Java_SpringBoot2\springboot3\demo_02\target\classes started by 王东林的计算机 in D:\Java_SpringBoot2\springboot3\demo_02)
+2023-06-08 18:37:09.562  INFO 23644 --- [main] com.example.demo_02.Demo02Application    : No active profile set, falling back to default profiles: default
+2023-06-08 18:37:10.388  INFO 23644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-06-08 18:37:10.396  INFO 23644 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-06-08 18:37:10.397  INFO 23644 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-08 18:37:10.482  INFO 23644 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-06-08 18:37:10.482  INFO 23644 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 881 ms
+2023-06-08 18:37:10.761  INFO 23644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-08 18:37:10.769  INFO 23644 --- [main] com.example.demo_02.Demo02Application    : Started Demo02Application in 1.618 seconds (JVM running for 2.573)
+2023-06-08 18:37:29.343  INFO 22996 --- [main] com.example.demo_02.Demo02Application    : Starting Demo02Application using Java 1.8.0_311 on Hobbit with PID 22996 (D:\Java_SpringBoot2\springboot3\demo_02\target\classes started by 王东林的计算机 in D:\Java_SpringBoot2\springboot3\demo_02)
+2023-06-08 18:37:29.345  INFO 22996 --- [main] com.example.demo_02.Demo02Application    : No active profile set, falling back to default profiles: default
+2023-06-08 18:37:30.294  INFO 22996 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-06-08 18:37:30.302  INFO 22996 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-06-08 18:37:30.302  INFO 22996 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-08 18:37:30.401  INFO 22996 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-06-08 18:37:30.401  INFO 22996 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1005 ms
+2023-06-08 18:37:30.690  INFO 22996 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-08 18:37:30.698  INFO 22996 --- [main] com.example.demo_02.Demo02Application    : Started Demo02Application in 1.719 seconds (JVM running for 2.804)
+2023-06-08 20:09:33.713  INFO 21584 --- [main] com.example.demo_02.Demo02Application    : Starting Demo02Application using Java 1.8.0_311 on Hobbit with PID 21584 (D:\Java_SpringBoot2\springboot3\demo_02\target\classes started by 王东林的计算机 in D:\Java_SpringBoot2\springboot3\demo_02)
+2023-06-08 20:09:33.717  INFO 21584 --- [main] com.example.demo_02.Demo02Application    : No active profile set, falling back to default profiles: default
+2023-06-08 20:09:34.592  INFO 21584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-06-08 20:09:34.601  INFO 21584 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-06-08 20:09:34.601  INFO 21584 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-08 20:09:34.707  INFO 21584 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-06-08 20:09:34.707  INFO 21584 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 922 ms
+2023-06-08 20:09:34.925  INFO 21584 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-06-08 20:09:35.010  INFO 21584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-08 20:09:35.018  INFO 21584 --- [main] com.example.demo_02.Demo02Application    : Started Demo02Application in 3.181 seconds (JVM running for 4.822)
+2023-06-08 20:09:41.372  INFO 21584 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-08 20:09:41.372  INFO 21584 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-06-08 20:09:41.373  INFO 21584 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-06-08 20:09:41.399  INFO 21584 --- [http-nio-8080-exec-1] c.e.demo_02.controller.HelloController   : 哈哈哈！
+2023-06-08 20:40:17.486  INFO 15048 --- [main] com.example.demo_02.Demo02Application    : Starting Demo02Application using Java 1.8.0_311 on Hobbit with PID 15048 (D:\Java_SpringBoot2\springboot3\demo_02\target\classes started by 王东林的计算机 in D:\Java_SpringBoot2\springboot3\demo_02)
+2023-06-08 20:40:17.486  INFO 15048 --- [main] com.example.demo_02.Demo02Application    : No active profile set, falling back to default profiles: default
+2023-06-08 20:40:18.978  INFO 15048 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-06-08 20:40:18.988  INFO 15048 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-06-08 20:40:18.988  INFO 15048 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-06-08 20:40:19.090  INFO 15048 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-06-08 20:40:19.090  INFO 15048 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1547 ms
+2023-06-08 20:40:19.334  INFO 15048 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2023-06-08 20:40:19.426  INFO 15048 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-08 20:40:19.436  INFO 15048 --- [main] com.example.demo_02.Demo02Application    : Started Demo02Application in 2.647 seconds (JVM running for 4.663)
+2023-06-08 20:40:38.247  INFO 15048 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-08 20:40:38.247  INFO 15048 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-06-08 20:40:38.248  INFO 15048 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-06-08 20:40:44.302  INFO 15048 --- [http-nio-8080-exec-3] c.e.demo_02.controller.HelloController   : 哈哈哈！
